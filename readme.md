@@ -1,3 +1,3 @@
 Chan Tsz Ting
 20510714
-![Screenshot](Lab1/screenshot.png)
+![Screenshot](https://github.com/Sherrychann/comp3111-lab1-2020s/blob/master/screenshot.png)
